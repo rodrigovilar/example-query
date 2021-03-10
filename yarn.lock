@@ -44,7 +44,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@mikro-orm/cli@^4.2.0":
+"@mikro-orm/cli@^4.4.4":
   version "4.4.4"
   resolved "https://registry.yarnpkg.com/@mikro-orm/cli/-/cli-4.4.4.tgz#bb09a134f71741ff43789bae5096ac0f6cce2ecf"
   integrity sha512-7DLxmZoNh5syuDlkG1QNrWN6nw5/Vy69hFXigK3+9KJt1sGpKYV3V7GWvlocvvED1FoWDZKaXNzwg2Cc1t7bBw==
@@ -60,7 +60,7 @@
     yargonaut "1.1.4"
     yargs "15.4.1"
 
-"@mikro-orm/core@^4.3.3", "@mikro-orm/core@^4.4.4":
+"@mikro-orm/core@^4.4.4":
   version "4.4.4"
   resolved "https://registry.npmjs.org/@mikro-orm/core/-/core-4.4.4.tgz"
   integrity sha512-oCFB9cGdJzgPum4rSB9N5py9fODIe7UPxWGBbEhGZnf4bcHrGpsO44WS3aSycypnQ3Lb8oqbge++pAIWQi7JlA==
@@ -101,9 +101,9 @@
     knex "0.21.17"
     umzug "2.3.0"
 
-"@mikro-orm/postgresql@^4.3.3":
+"@mikro-orm/postgresql@^4.4.4":
   version "4.4.4"
-  resolved "https://registry.npmjs.org/@mikro-orm/postgresql/-/postgresql-4.4.4.tgz"
+  resolved "https://registry.yarnpkg.com/@mikro-orm/postgresql/-/postgresql-4.4.4.tgz#2fc2bfce80796ca537d2b1589f534c7407b30c8f"
   integrity sha512-o30y5yopqmgyJltRLKoRi1xz/p67Mu1PvQkV2v10Lk/MhfxvxUQWi7Vn10zOucwKMM57ZjFY/dZUNwEzxoYNHw==
   dependencies:
     "@mikro-orm/knex" "^4.4.4"
